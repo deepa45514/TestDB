@@ -6,6 +6,9 @@ public class Ttt {
 		System.out.println("hello");
 		System.out.println("hellooo");
 		System.out.println("in branch micro");
+		int a,b,c;
+		c=a+b;
+
 			
 	}
 }
